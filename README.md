@@ -26,5 +26,4 @@ All research data and computational code required for reproducing the reported a
 The complete dataset and computational notebook are openly available at this GitHub repository:
 [INSERT GITHUB REPOSITORY URL]
 
-The notebook can also be accessed through Google Colab:
-[INSERT GOOGLE COLAB URL]
+The notebook can also be accessed through Google Colab:[(https://colab.research.google.com/drive/1YyzCMhfXKHXn8jK8wrw7ySChhIh2h_fU?usp=sharing)]
