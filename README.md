@@ -16,3 +16,15 @@ Load the supplied Excel dataset.
 Install the required Python packages, if not already available.
 Execute the notebook cells sequentially.
 The computational workflow generates the corresponding model evaluation results, tables, and visualizations.
+
+**Software and Reproducibility**
+The computational workflow was developed using Python in Google Colab. The notebook documents the data-processing procedures, molecular descriptor calculations, feature selection, model development, evaluation, and interpretation.
+
+All research data and computational code required for reproducing the reported analysis are provided in this repository.
+
+**Data and Code Availability**
+The complete dataset and computational notebook are openly available at this GitHub repository:
+[INSERT GITHUB REPOSITORY URL]
+
+The notebook can also be accessed through Google Colab:
+[INSERT GOOGLE COLAB URL]
